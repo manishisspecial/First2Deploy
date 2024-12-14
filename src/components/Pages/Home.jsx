@@ -228,7 +228,7 @@ export default function Home() {
         ]}
         subtitle="Craft Distinct Brand Image with Expert Guidance & Fresh Approach."
         videoSrc="https://www.youtube.com/embed/VcaAVWtP48A"
-        bgUrl="/images/creative-agency/hero_video_bg_1.jpeg"
+        bgUrl="/images/creative-agency/hero_video_bg_1.jpg"
       />
       <Spacing lg="125" md="70" />
       <div className="container">
