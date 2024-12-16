@@ -42,53 +42,53 @@ const serviceListData = [
     title: 'WP Development',
     subtitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    imgUrl: '/images/creative-agency/service_7.jpeg',
+    imgUrl: '/images/creative-agency/service_7.jpg',
     href: '/service/service-details',
   },
   {
     title: 'UI/UX Design',
     subtitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    imgUrl: '/images/creative-agency/service_8.jpeg',
+    imgUrl: '/images/creative-agency/service_8.jpg',
     href: '/service/service-details',
   },
   {
     title: 'Branding',
     subtitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    imgUrl: '/images/creative-agency/service_9.jpeg',
+    imgUrl: '/images/creative-agency/service_9.jpg',
     href: '/service/service-details',
   },
   {
     title: 'Social Ad Campaign',
     subtitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    imgUrl: '/images/creative-agency/service_10.jpeg',
+    imgUrl: '/images/creative-agency/service_10.jpg',
     href: '/service/service-details',
   },
 ];
 const portfolioData = [
   {
     href: '/portfolio/portfolio-details',
-    imgUrl: '/images/creative-agency/portfolio_1.jpeg',
+    imgUrl: '/images/creative-agency/portfolio_1.jpg',
     title: 'Awesome colorful artwork',
     btnText: 'See Project',
   },
   {
     href: '/portfolio/portfolio-details',
-    imgUrl: '/images/creative-agency/portfolio_2.jpeg',
+    imgUrl: '/images/creative-agency/portfolio_2.jpg',
     title: 'Admin dashboard UI design',
     btnText: 'See Project',
   },
   {
     href: '/portfolio/portfolio-details',
-    imgUrl: '/images/creative-agency/portfolio_3.jpeg',
+    imgUrl: '/images/creative-agency/portfolio_3.jpg',
     title: 'Product designing with brand',
     btnText: 'See Project',
   },
   {
     href: '/portfolio/portfolio-details',
-    imgUrl: '/images/creative-agency/portfolio_4.jpeg',
+    imgUrl: '/images/creative-agency/portfolio_4.jpg',
     title: 'Kids education website design',
     btnText: 'See Project',
   },
@@ -166,49 +166,49 @@ const faqData = [
 
 const postData = [
   {
-    thumbnailSrc: '/images/creative-agency/post_1.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_1.jpg',
     title: 'How to keep fear from ruining your art business with confident',
     date: '07 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_2.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_2.jpg',
     title: 'Artistic mind will be great for creation anything',
     date: '22 Apr 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_3.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_3.jpg',
     title: 'AI will take over all job for human within few years',
     date: '13 May 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_4.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_4.jpg',
     title: 'Your agency need to replace some artistic mind people',
     date: '15 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_1.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_1.jpg',
     title: 'How to keep fear from ruining your art business with confident',
     date: '07 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_2.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_2.jpg',
     title: 'Artistic mind will be great for creation anything',
     date: '22 Apr 2023',
     url: '/portfolio/portfolio-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_3.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_3.jpg',
     title: 'AI will take over all job for human within few years',
     date: '13 May 2023',
     url: '/portfolio/portfolio-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_4.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_4.jpg',
     title: 'Your agency need to replace some artistic mind people',
     date: '15 Mar 2023',
     url: '/portfolio/portfolio-details',
@@ -236,7 +236,7 @@ export default function Home() {
       </div>
       <Spacing lg="125" md="70" />
       <About
-        thumbnail="/images/creative-agency/about_1.jpeg"
+        thumbnail="/images/creative-agency/about_1.jpg"
         uperTitle="Who We Are"
         title="Full-stack creatives and designing agency"
         subTitle="Our team, specializing in strategic digital marketing, partners with the world's leading brands. Breaking from the norm, we push boundaries and merge imaginative thinking, consumer behavior,
@@ -254,7 +254,7 @@ export default function Home() {
         sectionTitle="We have depth of market knowledge"
         sectionSubTitle="Why Choose Us"
         whyChoseFeatureData={whyChoseFeatureData}
-        thumbnailSrc="/images/creative-agency/why_choose_us_img_3.jpeg"
+        thumbnailSrc="/images/creative-agency/why_choose_us_img_3.jpg"
       />
       <Spacing lg="150" md="80" />
       <section className="cs_primary_bg">
@@ -320,11 +320,11 @@ export default function Home() {
       </section>
       <TestimonialSlider
         layeredImages={[
-          '/images/creative-agency/layer_img_1.jpeg',
-          '/images/creative-agency/layer_img_2.jpeg',
-          '/images/creative-agency/layer_img_3.jpeg',
-          '/images/creative-agency/layer_img_4.jpeg',
-          '/images/creative-agency/layer_img_5.jpeg',
+          '/images/creative-agency/layer_img_1.jpg',
+          '/images/creative-agency/layer_img_2.jpg',
+          '/images/creative-agency/layer_img_3.jpg',
+          '/images/creative-agency/layer_img_4.jpg',
+          '/images/creative-agency/layer_img_5.jpg',
         ]}
         data={testimonialData}
       />
@@ -334,7 +334,7 @@ export default function Home() {
             title="Is there a specific project or goal that you have in mind?"
             btnText="Contact Us"
             btnUrl="/contact"
-            bgUrl="/images/creative-agency/cta_bg.jpeg"
+            bgUrl="/images/creative-agency/cta_bg.jpg"
           />
         </div>
       </section>
