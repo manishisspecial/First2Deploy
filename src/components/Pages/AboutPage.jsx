@@ -19,49 +19,49 @@ const funfactData = [
 ];
 const teamData = [
   {
-    memberImg: '/images/studio-agency/team_1.jpeg',
+    memberImg: '/images/studio-agency/team_1.jpg',
     memberName: 'James Berline',
     memberDesignation: 'React Developer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_2.jpeg',
+    memberImg: '/images/studio-agency/team_2.jpg',
     memberName: 'Bella Zubena',
     memberDesignation: 'Graphic Designer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_3.jpeg',
+    memberImg: '/images/studio-agency/team_3.jpg',
     memberName: 'Kemnei Alekzend',
     memberDesignation: 'Digital Marketer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_4.jpeg',
+    memberImg: '/images/studio-agency/team_4.jpg',
     memberName: 'Juliya Jesmine',
     memberDesignation: 'UX Researcher',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_1.jpeg',
+    memberImg: '/images/studio-agency/team_1.jpg',
     memberName: 'James Berline',
     memberDesignation: 'React Developer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_2.jpeg',
+    memberImg: '/images/studio-agency/team_2.jpg',
     memberName: 'Bella Zubena',
     memberDesignation: 'Graphic Designer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_3.jpeg',
+    memberImg: '/images/studio-agency/team_3.jpg',
     memberName: 'Kemnei Alekzend',
     memberDesignation: 'Digital Marketer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_4.jpeg',
+    memberImg: '/images/studio-agency/team_4.jpg',
     memberName: 'Juliya Jesmine',
     memberDesignation: 'UX Researcher',
     href: '/team/team-details',
@@ -118,7 +118,7 @@ export default function AboutPage({ darkMode }) {
       />
       <Spacing lg="75" md="60" />
       <AboutStyle4
-        thumbnailSrc="/images/digital-agency/about_1.jpeg"
+        thumbnailSrc="/images/digital-agency/about_1.jpg"
         miniTitle="Company Info"
         title="Marketing agency for your business"
         subTitle="Our team, specializing in strategic digital marketing, partners with aiming the world's leading brands. Breaking from the norm, we push boundaries and do merge imaginative thinking posible.
@@ -133,7 +133,7 @@ export default function AboutPage({ darkMode }) {
       <Spacing lg="125" md="70" />
       <AboutStyle5
         variant="cs_type_1"
-        thumbnailSrc="/images/digital-agency/about_2.jpeg"
+        thumbnailSrc="/images/digital-agency/about_2.jpg"
         miniTitle="What We Do"
         title="Best value service provider agency"
         subTitle="We make specializing in strategic digital marketing, partners with aiming the world's leading brands. Breaking from the norm, we push boundaries and do merge imaginative thinking posible dolores."

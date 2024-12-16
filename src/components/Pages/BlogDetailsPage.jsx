@@ -23,7 +23,7 @@ export default function BlogDetailsPage() {
       <Spacing lg="75" md="60" />
       <div className="container">
         <img
-          src="/images/blog/post_details_1.jpeg"
+          src="/images/blog/post_details_1.jpg"
           alt="Blog"
           className="cs_radius_15"
         />
@@ -71,21 +71,21 @@ export default function BlogDetailsPage() {
           <div className="row">
             <div className="col-md-4">
               <img
-                src="/images/blog/post_details_2.jpeg"
+                src="/images/blog/post_details_2.jpg"
                 alt="Thumb"
                 className="w-100"
               />
             </div>
             <div className="col-md-4">
               <img
-                src="/images/blog/post_details_3.jpeg"
+                src="/images/blog/post_details_3.jpg"
                 alt="Thumb"
                 className="w-100"
               />
             </div>
             <div className="col-md-4">
               <img
-                src="/images/blog/post_details_4.jpeg"
+                src="/images/blog/post_details_4.jpg"
                 alt="Thumb"
                 className="w-100"
               />

@@ -54,49 +54,49 @@ const testimonialData = [
 ];
 const postData = [
   {
-    thumbnailSrc: '/images/creative-agency/post_1.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_1.jpg',
     title: 'How to keep fear from ruining your art business with confident',
     date: '07 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_2.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_2.jpg',
     title: 'Artistic mind will be great for creation anything',
     date: '22 Apr 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_3.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_3.jpg',
     title: 'AI will take over all job for human within few years',
     date: '13 May 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_4.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_4.jpg',
     title: 'Your agency need to replace some artistic mind people',
     date: '15 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_1.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_1.jpg',
     title: 'How to keep fear from ruining your art business with confident',
     date: '07 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_2.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_2.jpg',
     title: 'Artistic mind will be great for creation anything',
     date: '22 Apr 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_3.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_3.jpg',
     title: 'AI will take over all job for human within few years',
     date: '13 May 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_4.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_4.jpg',
     title: 'Your agency need to replace some artistic mind people',
     date: '15 Mar 2023',
     url: '/blog/blog-details',
@@ -186,7 +186,7 @@ export default function TechStartupPage() {
           <div className="row g-3">
             <div className="col-lg-12">
               <Card
-                thumbnailSrc="/images/tech-startup/goal.jpeg"
+                thumbnailSrc="/images/tech-startup/goal.jpg"
                 title="Revolutionize industries with cutting-edge solutions."
                 miniTitle="Our Goal"
               />
@@ -260,7 +260,7 @@ export default function TechStartupPage() {
         <Spacing lg="130" md="70" />
         <VideoModal
           videoSrc="https://www.youtube.com/embed/VcaAVWtP48A"
-          bgUrl="/images/tech-startup/hero_video_bg.jpeg"
+          bgUrl="/images/tech-startup/hero_video_bg.jpg"
           title="Our Design and Technology <br /> Studio is dedicated to making <br />your ideas a reality"
           titleVariant="cs_outline_text"
         />
@@ -336,7 +336,7 @@ export default function TechStartupPage() {
             title="Is there a specific project or goal that you have in mind?"
             btnText="Contact Us"
             btnUrl="/contact"
-            bgUrl="/images/tech-startup/cta_bg.jpeg"
+            bgUrl="/images/tech-startup/cta_bg.jpg"
             noShape
           />
         </div>

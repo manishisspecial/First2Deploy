@@ -7,21 +7,21 @@ const wishlistProduct = [
   {
     id: 1,
     title: 'Awesome men T-shirt',
-    thumbUrl: '/images/shop/cart-product-1.jpeg',
+    thumbUrl: '/images/shop/cart-product-1.jpg',
     price: 300,
     stock: 4,
   },
   {
     id: 2,
     title: 'Fuyure AI robot toy',
-    thumbUrl: '/images/shop/cart-product-2.jpeg',
+    thumbUrl: '/images/shop/cart-product-2.jpg',
     price: 200,
     stock: 10,
   },
   {
     id: 3,
     title: 'Hemp seed shampoo',
-    thumbUrl: '/images/shop/cart-product-3.jpeg',
+    thumbUrl: '/images/shop/cart-product-3.jpg',
     price: 50,
     stock: 0,
   },
@@ -99,7 +99,7 @@ export default function Wishlist() {
                   </td>
                   <td>
                     <div className="cs_cart_table_media">
-                      <img src="/images/shop/cart-product-1.jpeg" alt="Thumb" />
+                      <img src="/images/shop/cart-product-1.jpg" alt="Thumb" />
                       <h3>Awesome men T-shirt</h3>
                     </div>
                   </td>

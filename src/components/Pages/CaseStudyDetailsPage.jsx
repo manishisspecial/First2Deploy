@@ -22,7 +22,7 @@ export default function CaseStudyDetailsPage() {
       <div className="container">
         <img
           className="cs_casestudy_details_thumb cs_radius_15"
-          src="/images/others/case_1.jpeg"
+          src="/images/others/case_1.jpg"
           alt="Thumb"
         />
         <div className="cs_height_100 cs_height_lg_60" />
@@ -48,7 +48,7 @@ export default function CaseStudyDetailsPage() {
         <div className="row align-items-center cs_gap_y_35">
           <div className="col-lg-5">
             <img
-              src="/images/others/case_2.jpeg"
+              src="/images/others/case_2.jpg"
               alt="Thumb"
               className="cs_radius_15 w-100"
             />
@@ -94,11 +94,11 @@ export default function CaseStudyDetailsPage() {
           { number: '05', text: 'Branding Consistency' },
           { number: '06', text: 'Content Strategy' },
         ]}
-        thumbnailSrc="/images/others/case_3.jpeg"
+        thumbnailSrc="/images/others/case_3.jpg"
       />
       <Spacing lg="150" md="80" />
       <AboutStyle8
-        thumbnailSrc="/images/others/case_4.jpeg"
+        thumbnailSrc="/images/others/case_4.jpg"
         title="Result overview:"
         subTitle="Performance testing, specializing in strategic digital marketing, partners with the world's leading brands. Breaking from the norm, we push boundaries and merge imaginative thinking, consumer behavior, and data-driven design with advanced technology."
         grothData={[

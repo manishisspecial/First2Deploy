@@ -7,7 +7,7 @@ import Sidebar from '../Sidebar';
 import { pageTitle } from '../../helpers/PageTitle';
 const blogData = [
   {
-    thumbnailSrc: '/images/blog/post_1.jpeg',
+    thumbnailSrc: '/images/blog/post_1.jpg',
     category: 'Branding',
     title: 'Strategies for building a strong brand identity',
     subTitle:
@@ -15,7 +15,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_2.jpeg',
+    thumbnailSrc: '/images/blog/post_2.jpg',
     category: 'LifeStyle',
     title: 'Best SEO practices for better web page rankings',
     subTitle:
@@ -23,7 +23,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_3.jpeg',
+    thumbnailSrc: '/images/blog/post_3.jpg',
     category: 'Travel',
     title: 'Strategies for building a strong brand identity',
     subTitle:
@@ -31,7 +31,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_4.jpeg',
+    thumbnailSrc: '/images/blog/post_4.jpg',
     category: 'Event',
     title: 'Strategies for building a strong brand identity',
     subTitle:
@@ -39,7 +39,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_5.jpeg',
+    thumbnailSrc: '/images/blog/post_5.jpg',
     category: 'Tech',
     title: 'Inspiration for creating compelling visuals',
     subTitle:
@@ -47,7 +47,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_1.jpeg',
+    thumbnailSrc: '/images/blog/post_1.jpg',
     category: 'Branding',
     title: 'Strategies for building a strong brand identity',
     subTitle:
@@ -55,7 +55,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_2.jpeg',
+    thumbnailSrc: '/images/blog/post_2.jpg',
     category: 'LifeStyle',
     title: 'Best SEO practices for better web page rankings',
     subTitle:
@@ -63,7 +63,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_3.jpeg',
+    thumbnailSrc: '/images/blog/post_3.jpg',
     category: 'Travel',
     title: 'Strategies for building a strong brand identity',
     subTitle:
@@ -71,7 +71,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_4.jpeg',
+    thumbnailSrc: '/images/blog/post_4.jpg',
     category: 'Event',
     title: 'Strategies for building a strong brand identity',
     subTitle:
@@ -79,7 +79,7 @@ const blogData = [
     href: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/blog/post_5.jpeg',
+    thumbnailSrc: '/images/blog/post_5.jpg',
     category: 'Tech',
     title: 'Inspiration for creating compelling visuals',
     subTitle:

@@ -24,25 +24,25 @@ const postData = [
   {
     date: '05 Mar 2023',
     title: 'How to keep fear from ruining your art business with confident',
-    thumbnailSrc: '/images/studio-agency/post_2.jpeg',
+    thumbnailSrc: '/images/studio-agency/post_2.jpg',
     href: '/blog/blog-details',
   },
   {
     date: '07 Mar 2023',
     title: 'Artistic mind will be great for creation anything',
-    thumbnailSrc: '/images/studio-agency/post_1.jpeg',
+    thumbnailSrc: '/images/studio-agency/post_1.jpg',
     href: '/blog/blog-details',
   },
   {
     date: '03 Mar 2023',
     title: 'How to keep fear from ruining your art business with confident',
-    thumbnailSrc: '/images/studio-agency/post_3.jpeg',
+    thumbnailSrc: '/images/studio-agency/post_3.jpg',
     href: '/blog/blog-details',
   },
   {
     date: '02 Mar 2023',
     title: 'How to keep fear from ruining your art business with confident',
-    thumbnailSrc: '/images/studio-agency/post_4.jpeg',
+    thumbnailSrc: '/images/studio-agency/post_4.jpg',
     href: '/blog/blog-details',
   },
 ];
@@ -101,7 +101,7 @@ const testimonialData = [
 ];
 const portfolioData = [
   {
-    thumbnailSrc: '/images/digital-agency/portfolio_1.jpeg',
+    thumbnailSrc: '/images/digital-agency/portfolio_1.jpg',
     miniTitle: 'React Development',
     title: 'Corporate Webly <br />Application',
     subTitle:
@@ -109,7 +109,7 @@ const portfolioData = [
     href: '/portfolio/portfolio-details',
   },
   {
-    thumbnailSrc: '/images/digital-agency/portfolio_2.jpeg',
+    thumbnailSrc: '/images/digital-agency/portfolio_2.jpg',
     miniTitle: 'UI/UX Design',
     title: 'eCommerce User <br />Interface Design',
     subTitle:
@@ -117,7 +117,7 @@ const portfolioData = [
     href: '/portfolio/portfolio-details',
   },
   {
-    thumbnailSrc: '/images/digital-agency/portfolio_3.jpeg',
+    thumbnailSrc: '/images/digital-agency/portfolio_3.jpg',
     miniTitle: '3D Render',
     title: 'Multi Dimension <br />Two Square',
     subTitle:
@@ -125,7 +125,7 @@ const portfolioData = [
     href: '/portfolio/portfolio-details',
   },
   {
-    thumbnailSrc: '/images/digital-agency/portfolio_4.jpeg',
+    thumbnailSrc: '/images/digital-agency/portfolio_4.jpg',
     miniTitle: 'Animation',
     title: 'Animated Abstract <br />3D Background',
     subTitle:
@@ -143,11 +143,11 @@ export default function DigitalAgencyPage({ darkMode }) {
         subTitle="Our agency offers a comprehensive suite of lots services, including Branding, Advertising, Social marketing, Video making, and Marketing analysis."
         thumbnailSrc={
           darkMode
-            ? '/images/digital-agency/hero_bg_dark.jpeg'
-            : '/images/digital-agency/hero_bg.jpeg'
+            ? '/images/digital-agency/hero_bg_dark.jpg'
+            : '/images/digital-agency/hero_bg.jpg'
         }
         videoSrc="https://www.youtube.com/embed/VcaAVWtP48A"
-        bgUrl="/images/digital-agency/hero_video_bg.jpeg"
+        bgUrl="/images/digital-agency/hero_video_bg.jpg"
       />
       <div className="cs_primary_bg">
         <Spacing lg="125" md="80" />
@@ -158,7 +158,7 @@ export default function DigitalAgencyPage({ darkMode }) {
       </div>
       <Spacing lg="150" md="80" />
       <AboutStyle4
-        thumbnailSrc="/images/digital-agency/about_1.jpeg"
+        thumbnailSrc="/images/digital-agency/about_1.jpg"
         miniTitle="Company Info"
         title="Marketing agency for your business"
         subTitle="Our team, specializing in strategic digital marketing, partners with aiming the world's leading brands. Breaking from the norm, we push boundaries and do merge imaginative thinking posible.
@@ -169,7 +169,7 @@ export default function DigitalAgencyPage({ darkMode }) {
 
       <Spacing lg="150" md="80" />
       <AboutStyle5
-        thumbnailSrc="/images/digital-agency/about_2.jpeg"
+        thumbnailSrc="/images/digital-agency/about_2.jpg"
         videoSrc="/images/digital-agency/video.mp4"
         miniTitle="What We Do"
         title="Best value service provider agency"
@@ -321,7 +321,7 @@ export default function DigitalAgencyPage({ darkMode }) {
         title="Is there a specific project or goal <br/>that you have in mind?"
         btnText="Contact Us"
         btnUrl="/contact"
-        bgUrl="/images/creative-agency/cta_bg.jpeg"
+        bgUrl="/images/creative-agency/cta_bg.jpg"
         variant="cs_type_1"
       />
       <section className="cs_shape_animation_3">

@@ -69,7 +69,7 @@ export default function ServiceDetailsPage() {
       </div>
       <Spacing lg="150" md="80" />
       <AboutStyle6
-        thumbnailSrc="/images/others/service_details_1.jpeg"
+        thumbnailSrc="/images/others/service_details_1.jpg"
         title="What you will get from this service?"
         subTitle="Our team, specializing in strategic digital marketing, partners with the world's leading brands. Breaking from the norm, we push boundaries and imaginative thinking, consumer behavior, and data-driven design with advanced."
         featureList={[

@@ -29,7 +29,7 @@ export default function TeamPage() {
           <div className="row cs_gap_y_35">
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_1.jpeg"
+                memberImg="/images/studio-agency/team_1.jpg"
                 memberName="James Berline"
                 memberDesignation="React Developer"
                 href="/team-details"
@@ -37,7 +37,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_2.jpeg"
+                memberImg="/images/studio-agency/team_2.jpg"
                 memberName="Bella Zubena"
                 memberDesignation="Graphic Designer"
                 href="/team-details"
@@ -45,7 +45,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_3.jpeg"
+                memberImg="/images/studio-agency/team_3.jpg"
                 memberName="Kemnei Alekzend"
                 memberDesignation="Digital Marketer"
                 href="/team-details"
@@ -53,7 +53,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_4.jpeg"
+                memberImg="/images/studio-agency/team_4.jpg"
                 memberName="Juliya Jesmine"
                 memberDesignation="UX Researcher"
                 href="/team-details"
@@ -61,7 +61,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_5.jpeg"
+                memberImg="/images/studio-agency/team_5.jpg"
                 memberName="Bob Mulian"
                 memberDesignation="Video Editor"
                 href="/team-details"
@@ -69,7 +69,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_6.jpeg"
+                memberImg="/images/studio-agency/team_6.jpg"
                 memberName="Sindrela Anam"
                 memberDesignation="Script Writer"
                 href="/team-details"
@@ -88,7 +88,7 @@ export default function TeamPage() {
           <Spacing lg="85" md="45" />
         </div>
         <Hiring
-          thumbnailSrc="/images/others/hiring_img.jpeg"
+          thumbnailSrc="/images/others/hiring_img.jpg"
           data={circularList}
         />
         <Spacing lg="150" md="80" />

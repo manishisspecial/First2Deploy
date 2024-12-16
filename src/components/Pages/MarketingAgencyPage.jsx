@@ -133,28 +133,28 @@ const testimonialData = [
 ];
 const caseStudyData = [
   {
-    thumbnailSrc: '/images/marketing-agency/case_study_1.jpeg',
+    thumbnailSrc: '/images/marketing-agency/case_study_1.jpg',
     title: 'Digital marketing management',
     category: 'Marketing',
     number: '01',
     href: '/case-study-details',
   },
   {
-    thumbnailSrc: '/images/marketing-agency/case_study_2.jpeg',
+    thumbnailSrc: '/images/marketing-agency/case_study_2.jpg',
     title: 'Digital marketing management',
     category: 'Marketing',
     number: '02',
     href: '/case-study-details',
   },
   {
-    thumbnailSrc: '/images/marketing-agency/case_study_3.jpeg',
+    thumbnailSrc: '/images/marketing-agency/case_study_3.jpg',
     title: 'Digital marketing management',
     category: 'Marketing',
     number: '03',
     href: '/case-study-details',
   },
   {
-    thumbnailSrc: '/images/marketing-agency/case_study_4.jpeg',
+    thumbnailSrc: '/images/marketing-agency/case_study_4.jpg',
     title: 'Digital marketing management',
     category: 'Marketing',
     number: '04',
@@ -163,49 +163,49 @@ const caseStudyData = [
 ];
 const postData = [
   {
-    thumbnailSrc: '/images/creative-agency/post_1.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_1.jpg',
     title: 'How to keep fear from ruining your art business with confident',
     date: '07 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_2.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_2.jpg',
     title: 'Artistic mind will be great for creation anything',
     date: '22 Apr 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_3.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_3.jpg',
     title: 'AI will take over all job for human within few years',
     date: '13 May 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_4.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_4.jpg',
     title: 'Your agency need to replace some artistic mind people',
     date: '15 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_1.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_1.jpg',
     title: 'How to keep fear from ruining your art business with confident',
     date: '07 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_2.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_2.jpg',
     title: 'Artistic mind will be great for creation anything',
     date: '22 Apr 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_3.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_3.jpg',
     title: 'AI will take over all job for human within few years',
     date: '13 May 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_4.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_4.jpg',
     title: 'Your agency need to replace some artistic mind people',
     date: '15 Mar 2023',
     url: '/blog/blog-details',
@@ -283,7 +283,7 @@ export default function MarketingAgencyPage({ darkMode }) {
         miniTitle="London Based Marketing Agency"
         title="Unlock Your Business's Potential with Expert Digital Marketing Solutions"
         subTitle="Our agency offers a comprehensive suite of lots services, including Branding, Advertising, Social marketing, Video making, and Marketing analysis."
-        thumbnailSrc="/images/marketing-agency/hiro_img.jpeg"
+        thumbnailSrc="/images/marketing-agency/hiro_img.jpg"
         mikeIcon={
           darkMode ? '/images/icons/mike_dark.svg' : '/images/icons/mike.svg'
         }
@@ -337,7 +337,7 @@ export default function MarketingAgencyPage({ darkMode }) {
         <Spacing lg="126" md="70" />
         <VideoModal
           videoSrc="https://www.youtube.com/embed/VcaAVWtP48A"
-          bgUrl="/images/creative-agency/hero_video_bg_1.jpeg"
+          bgUrl="/images/creative-agency/hero_video_bg_1.jpg"
           title="Our Design and Technology <br /> Studio is dedicated to making <br />your ideas a reality"
         />
       </div>
@@ -407,7 +407,7 @@ export default function MarketingAgencyPage({ darkMode }) {
             title="Is there a specific project or goal that you have in mind?"
             btnText="Contact Us"
             btnUrl="/contact"
-            bgUrl="/images/creative-agency/cta_bg.jpeg"
+            bgUrl="/images/creative-agency/cta_bg.jpg"
           />
         </div>
       </section>

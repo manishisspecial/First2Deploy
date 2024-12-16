@@ -17,7 +17,7 @@ export default function PortfolioDetailsPage() {
       <Spacing lg="75" md="60" />
       <div className="container">
         <div className="cs_portfolio_details">
-          <img src="/images/others/portfolio_details_1.jpeg" alt="Thumb" />
+          <img src="/images/others/portfolio_details_1.jpg" alt="Thumb" />
           <Spacing lg="100" md="40" />
           <div className="cs_portfolio_details_in">
             <ul className="cs_portfolio_details_info cs_mp0">
@@ -72,13 +72,13 @@ export default function PortfolioDetailsPage() {
           <Spacing lg="115" md="60" />
           <div className="cs_portfolio_details_gallery">
             <div>
-              <img src="/images/others/portfolio_details_2.jpeg" alt="Thumb" />
+              <img src="/images/others/portfolio_details_2.jpg" alt="Thumb" />
             </div>
             <div>
-              <img src="/images/others/portfolio_details_3.jpeg" alt="Thumb" />
+              <img src="/images/others/portfolio_details_3.jpg" alt="Thumb" />
             </div>
             <div>
-              <img src="/images/others/portfolio_details_4.jpeg" alt="Thumb" />
+              <img src="/images/others/portfolio_details_4.jpg" alt="Thumb" />
             </div>
           </div>
         </div>

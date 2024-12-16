@@ -19,7 +19,7 @@ const serviceData = [
     title: 'WP Development',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_1.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_1.jpg',
     href: '/service/service-details',
   },
   {
@@ -27,7 +27,7 @@ const serviceData = [
     title: 'Branding Design',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_2.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_2.jpg',
     href: '/service/service-details',
   },
   {
@@ -35,7 +35,7 @@ const serviceData = [
     title: 'Branding Design',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_3.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_3.jpg',
     href: '/service/service-details',
   },
   {
@@ -43,32 +43,32 @@ const serviceData = [
     title: 'On Page Optimization',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_4.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_4.jpg',
     href: '/service/service-details',
   },
 ];
 const portfolioData = [
   {
     href: '/portfolio/portfolio-details',
-    imgUrl: '/images/creative-agency/portfolio_1.jpeg',
+    imgUrl: '/images/creative-agency/portfolio_1.jpg',
     title: 'Awesome colorful artwork',
     btnText: 'See Project',
   },
   {
     href: '/portfolio/portfolio-details',
-    imgUrl: '/images/creative-agency/portfolio_2.jpeg',
+    imgUrl: '/images/creative-agency/portfolio_2.jpg',
     title: 'Admin dashboard UI design',
     btnText: 'See Project',
   },
   {
     href: '/portfolio/portfolio-details',
-    imgUrl: '/images/creative-agency/portfolio_3.jpeg',
+    imgUrl: '/images/creative-agency/portfolio_3.jpg',
     title: 'Product designing with brand',
     btnText: 'See Project',
   },
   {
     href: '/portfolio/portfolio-details',
-    imgUrl: '/images/creative-agency/portfolio_4.jpeg',
+    imgUrl: '/images/creative-agency/portfolio_4.jpg',
     title: 'Kids education website design',
     btnText: 'See Project',
   },
@@ -143,49 +143,49 @@ const brandDataDark = [
 ];
 const teamData = [
   {
-    memberImg: '/images/studio-agency/team_1.jpeg',
+    memberImg: '/images/studio-agency/team_1.jpg',
     memberName: 'James Berline',
     memberDesignation: 'React Developer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_2.jpeg',
+    memberImg: '/images/studio-agency/team_2.jpg',
     memberName: 'Bella Zubena',
     memberDesignation: 'Graphic Designer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_3.jpeg',
+    memberImg: '/images/studio-agency/team_3.jpg',
     memberName: 'Kemnei Alekzend',
     memberDesignation: 'Digital Marketer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_4.jpeg',
+    memberImg: '/images/studio-agency/team_4.jpg',
     memberName: 'Juliya Jesmine',
     memberDesignation: 'UX Researcher',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_1.jpeg',
+    memberImg: '/images/studio-agency/team_1.jpg',
     memberName: 'James Berline',
     memberDesignation: 'React Developer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_2.jpeg',
+    memberImg: '/images/studio-agency/team_2.jpg',
     memberName: 'Bella Zubena',
     memberDesignation: 'Graphic Designer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_3.jpeg',
+    memberImg: '/images/studio-agency/team_3.jpg',
     memberName: 'Kemnei Alekzend',
     memberDesignation: 'Digital Marketer',
     href: '/team/team-details',
   },
   {
-    memberImg: '/images/studio-agency/team_4.jpeg',
+    memberImg: '/images/studio-agency/team_4.jpg',
     memberName: 'Juliya Jesmine',
     memberDesignation: 'UX Researcher',
     href: '/team/team-details',
@@ -212,25 +212,25 @@ const postData = [
   {
     date: '07 Mar 2023',
     title: 'Artistic mind will be great for creation anything',
-    thumbnailSrc: '/images/studio-agency/post_1.jpeg',
+    thumbnailSrc: '/images/studio-agency/post_1.jpg',
     href: '/blog/blog-details',
   },
   {
     date: '05 Mar 2023',
     title: 'How to keep fear from ruining your art business with confident',
-    thumbnailSrc: '/images/studio-agency/post_2.jpeg',
+    thumbnailSrc: '/images/studio-agency/post_2.jpg',
     href: '/blog/blog-details',
   },
   {
     date: '03 Mar 2023',
     title: 'How to keep fear from ruining your art business with confident',
-    thumbnailSrc: '/images/studio-agency/post_3.jpeg',
+    thumbnailSrc: '/images/studio-agency/post_3.jpg',
     href: '/blog/blog-details',
   },
   {
     date: '02 Mar 2023',
     title: 'How to keep fear from ruining your art business with confident',
-    thumbnailSrc: '/images/studio-agency/post_4.jpeg',
+    thumbnailSrc: '/images/studio-agency/post_4.jpg',
     href: '/blog/blog-details',
   },
 ];
@@ -316,7 +316,7 @@ export default function StudioAgencyPage({ darkMode }) {
         title="Is there a specific project or goal <br/>that you have in mind?"
         btnText="Contact Us"
         btnUrl="/contact"
-        bgUrl="/images/creative-agency/cta_bg.jpeg"
+        bgUrl="/images/creative-agency/cta_bg.jpg"
         variant="cs_type_1"
       />
       <section className="cs_shape_animation_3">

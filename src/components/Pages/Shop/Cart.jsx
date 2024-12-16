@@ -37,7 +37,7 @@ export default function Cart() {
                     <td>
                       <div className="cs_cart_table_media">
                         <img
-                          src="/images/shop/cart-product-1.jpeg"
+                          src="/images/shop/cart-product-1.jpg"
                           alt="Thumb"
                         />
                         <h3>Awesome men T-shirt</h3>
@@ -58,7 +58,7 @@ export default function Cart() {
                     <td>
                       <div className="cs_cart_table_media">
                         <img
-                          src="/images/shop/cart-product-2.jpeg"
+                          src="/images/shop/cart-product-2.jpg"
                           alt="Thumb"
                         />
                         <h3>Fuyure AI robot toy</h3>
@@ -79,7 +79,7 @@ export default function Cart() {
                     <td>
                       <div className="cs_cart_table_media">
                         <img
-                          src="/images/shop/cart-product-3.jpeg"
+                          src="/images/shop/cart-product-3.jpg"
                           alt="Thumb"
                         />
                         <h3>Hemp seed shampoo</h3>

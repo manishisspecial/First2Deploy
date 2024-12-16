@@ -12,7 +12,7 @@ const serviceData = [
     title: 'WP Development',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_1.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_1.jpg',
     href: '/service/service-details',
   },
   {
@@ -20,7 +20,7 @@ const serviceData = [
     title: 'Branding Design',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_2.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_2.jpg',
     href: '/service/service-details',
   },
   {
@@ -28,7 +28,7 @@ const serviceData = [
     title: 'Branding Design',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_3.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_3.jpg',
     href: '/service/service-details',
   },
   {
@@ -36,7 +36,7 @@ const serviceData = [
     title: 'On Page Optimization',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_4.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_4.jpg',
     href: '/service/service-details',
   },
   {
@@ -44,7 +44,7 @@ const serviceData = [
     title: 'Front-End Development',
     subTitle:
       'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae.',
-    thumbnailSrc: '/images/studio-agency/service_img_5.jpeg',
+    thumbnailSrc: '/images/studio-agency/service_img_5.jpg',
     href: '/service/service-details',
   },
 ];

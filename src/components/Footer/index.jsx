@@ -90,7 +90,7 @@ export default function Footer() {
   return (
     <footer
       className="cs_fooer cs_bg_filed"
-      style={{ backgroundImage: 'url(/images/footer_bg.jpeg)' }}
+      style={{ backgroundImage: 'url(/images/footer_bg.jpg)' }}
     >
       <div className="cs_fooer_main">
         <div className="container">
