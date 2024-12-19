@@ -28,7 +28,7 @@ export default function ContactPage() {
               <ul className="cs_mp0 cs_contact_info">
                 <li>
                   <h3 className="cs_fs_29 cs_semibold">Email:</h3>
-                  <p className="mb-0">ighofficedwarka[at]gmail[dot]com</p>
+                  <p className="mb-0">ighofficedwarka@gmail.com</p>
                 </li>
                 <li>
                   <h3 className="cs_fs_29 cs_semibold">Phone:</h3>

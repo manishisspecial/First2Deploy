@@ -2,9 +2,9 @@ import { Icon } from '@iconify/react';
 import React from 'react';
 import { Link } from 'react-router-dom';
 const addressDataList = [
-  '5553 Jay Path Apt. 908',
-  '+44 454 7800 112',
-  'info@zivan.net',
+  'Indira Gandhi Hospital',
+  '011-20895995',
+  'ighofficedwarka@gmail.com',
 ];
 const serviceMenuList = [
   {

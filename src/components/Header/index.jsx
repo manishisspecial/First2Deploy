@@ -35,7 +35,7 @@ export default function Header({
         <div className="container">
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
-              <Link className="cs_site_branding" to="/tech-startup">
+              <Link className="cs_site_branding" to="/">
                 <img src={logoUrl} alt="Logo" />
               </Link>
             </div>
@@ -47,7 +47,7 @@ export default function Header({
                   }`}
                 >
                   <li className="cs_mega_menu">
-                    <Link to="/tech-startup">Home</Link>                   
+                    <Link to="/">Home</Link>                   
                   </li>
                   <li>
                     <Link to="about">About</Link>
