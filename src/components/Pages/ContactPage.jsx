@@ -28,15 +28,15 @@ export default function ContactPage() {
               <ul className="cs_mp0 cs_contact_info">
                 <li>
                   <h3 className="cs_fs_29 cs_semibold">Email:</h3>
-                  <p className="mb-0">hello@zivan.com</p>
+                  <p className="mb-0">ighofficedwarka[at]gmail[dot]com</p>
                 </li>
                 <li>
                   <h3 className="cs_fs_29 cs_semibold">Phone:</h3>
-                  <p className="mb-0">+54 45 454 78 23</p>
+                  <p className="mb-0">011-20895995</p>
                 </li>
                 <li>
                   <h3 className="cs_fs_29 cs_semibold">Address:</h3>
-                  <p className="mb-0">55/53 Jay Pathshala Apt. 908, USA</p>
+                  <p className="mb-0">Indira Gandhi Hospital</p>
                 </li>
               </ul>
             </div>
@@ -95,13 +95,9 @@ export default function ContactPage() {
         <div className="cs_height_0 cs_height_lg_80" />
       </section>
       <div className="cs_map">
-        <iframe
-          id="map"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96652.27317354927!2d-74.33557928194516!3d40.79756494697628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3a82f1352d0dd%3A0x81d4f72c4435aab5!2sTroy+Meadows+Wetlands!5e0!3m2!1sen!2sbd!4v1563075599994!5m2!1sen!2sbd"
-          allowFullScreen
-          title="Google Map"
-        />
+        <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56049.77645115582!2d76.99235048381409!3d28.59644582494354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1b1ea4c4deed%3A0x248d178586d91bda!2sIndira%20Gandhi%20Hospital!5e0!3m2!1sen!2sin!4v1734620887984!5m2!1sen!2sin" allowFullScreen
+          title="Google Map"></iframe>
       </div>
-    </>
+      </>
   );
 }
